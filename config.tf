@@ -16,7 +16,7 @@ provider "azurerm" {
   subscription_id = var.subscription_id
 }
 
-resource "azurerm_resource_group" "sultanTest" {
+resource "azurerm_resource_group" "sultanTest2" {
   name = var.ResourceGroup
   location = var.location
   
