@@ -1,6 +1,6 @@
 variable "ResourceGroup" {
     type = string
-    default = "Sultan_RG"
+    default = "SultanDevOpstest"
   
 }
 variable "location" {
